@@ -1,4 +1,5 @@
 # DataScienceBowl2017Meetup
+![alt text](https://github.com/WoodmarkConsulting/DataScienceBowl2017Meetup/blob/addAWSCommands/pictures/logos/Woodmark_4c_zentriert.png)
 Presentation for the Kaggle Munich Meetup Group
 
 - authors:
