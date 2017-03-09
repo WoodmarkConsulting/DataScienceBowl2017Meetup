@@ -9,3 +9,10 @@ Presentation for the Kaggle Munich Meetup Group
 - date: 2017/03/07
 
 Small presentation of our current status for the Data Science Bowl 2017 Kaggle Competition.
+
+
+## Start Presentation
+
+```
+jupyter-nbconvert.exe Presentation_Kaggle_Munich_Meetup.ipynb --to slides --post serve
+```
